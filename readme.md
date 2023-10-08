@@ -62,7 +62,7 @@ npm start
 
 ### Project Videos
 
-
+FYI I have entered password its a feature of ios that it does not show textinputs of type password in recordings
 
 https://github.com/yudish12/Chatapp-React-Native-/assets/82305974/bd429b0a-4cef-42ca-9f02-ffb1a60f72bf
 
