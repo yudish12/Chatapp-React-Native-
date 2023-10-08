@@ -34,7 +34,7 @@ https://www.mongodb.com/basics/mongodb-connection-string#:~:text=How%20to%20get%
 2) Now create your cloudinary account and get api key,cloud name,secret key
 
 3) Now create a .env file in /Api directory and add these fields   
-
+    ```
       | Variable     | Description                        |
       |---------------------------------------------------|
       | MONGO_URI    | connection string of database      |
@@ -42,7 +42,7 @@ https://www.mongodb.com/basics/mongodb-connection-string#:~:text=How%20to%20get%
       | CLOUD_NAME   | cloudinary cloud name              |  
       | API_KEY      | api key for cloudinary             |
       | API_SECRET   | api secret for cloudinary          |
-
+    ```
 4) now type this command to start backend server
     ```
     node index.js
